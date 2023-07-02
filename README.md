@@ -26,6 +26,7 @@ telegram botunun keyi ve OpenAI api key değeri değiştirilir sonrasında windo
 
 -- Programın oluşturulduğu ve diğer cihazlarda kullanılabiliyor ancak kesintiye uğrayabiliyor. 
 Bunun nedenenin programın kurulduğu bilgisayarın kapalı olup olmaması ya da telegramdan kaynaklı bir zaman aşımı olup olmadığına dair bilgim yok.
+Güncelleme: Bot bir bulut servisinde çalışmadığı için çalıştırılan program kapatılınca duruyor.
 -- Uzun cevaplar limite takılabilir.
 
 
