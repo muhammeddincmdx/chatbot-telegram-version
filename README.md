@@ -24,7 +24,8 @@ telegram botunun keyi ve OpenAI api key değeri değiştirilir sonrasında windo
 
 ## Alternatif Sorunlar
 
--- Programın oluşturulduğu ve diğer cihazlarda kullanılabiliyor ancak kesintiye uğrayabiliyor. Bunun nedenenin programın kurulduğu bilgisayarın kapalı olup olmaması ya da    telegramdan kaynaklı bir zaman aşımı olup olmadığına dair bilgim yok.
+-- Programın oluşturulduğu ve diğer cihazlarda kullanılabiliyor ancak kesintiye uğrayabiliyor. 
+Bunun nedenenin programın kurulduğu bilgisayarın kapalı olup olmaması ya da telegramdan kaynaklı bir zaman aşımı olup olmadığına dair bilgim yok.
 -- Uzun cevaplar limite takılabilir.
 
 
