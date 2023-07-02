@@ -1,0 +1,25 @@
+Physics I Dersine Dair Eğitim Bilgileri
+99600003: Pyhsics I Dersinin Kodu.
+Ders Adı: Physics I
+Dersin Verildiği Yarıyıl: 1. Yarıyıl
+Dersin Dağılımı: Teorik ve uygulama olarak 4 ders saatidir.
+Dersin Kredisi: 5
+Dersin AKTS Değeri: 5
+Dersin Kodu: 99600003
+Öğrenim Türü: Örgün Öğretim
+Dersin Dili: Türkçe
+Dersin Düzeyi: Fakülte
+Dersin Staj Durumu: Yok.
+Dersin Türü: Zorunlu
+Dersin Bölümü/Programı: Mekatronik Mühendisliği
+Dersin Ön Koşulu: Yok.
+Dersin Koordinatörü: Prof. Dr. Ali Bülent UŞAKLI
+Dersi Veren: Prof. Dr. Ayben KARASU UYSAL
+Dersin Yardımcıları : Yok.
+Dersin Amacı: Temel fizik kavramlarını tanıtmak, mekanik olayları içeren belirli fiziksel nicelikleri formüle etmede ve problem çözmedeki becerileri geliştirmek. Fiziğin gerçek dünyadaki uygulamalarla birlikte anlaşılırlığını sağlamak ve diğer bilim dalları üzerindeki rolü pratik örneklerle gösterilerek öğrencilere fizigi sevdirmek.
+Dersin Öğretim Yöntem ve Teknikleri: Fizik ve ölçme, Vektörler, Bir-Boyutlu hareket, İki-Boyutlu Hareket, Hareket Kanunları, Dairesel Hareket ve Newton Kanunlarının Diğer Uygulamaları, İş ve Kinetik Enerji, Potansiyel Enerji ve Enerjinin Korunumu, Çizgisel Momentum ve Çarpışmalar, Katı Bir Cismin Sabit Bir Eksen Etrafında Dönmesi, Yuvarlanma hareketi ve Açısal Momentum
+Dersin Kaynakları: Dersin kaynakları belirtilmemiştir.
+Ders Yapısı: Matematik ve Temel Bilgiler(%50), Mühendislik Bilimleri(%50).
+Ders Konuları: Haftalara göre Konular = 1. Fizik ve Ölçme, 2. Vektörler, 3. Bir Boyutta Haraket, 4. İki Boyutta Hareket, 5. Newton'un Hareket Kanunları, 6. Dairesel Hareket ve Newton Kanunlarının Diğer Uygulamaları, 7. İş ve Kinetik Enerji, 8. Potansiyel Enerji ve Enerjinin Korunumu, 9. Doğrusal Momentum ve Çarpışmalar, 12. Katı bir cismin sabit bir eksen etrafında dönmesi, 14. Tork ve Açısal Momentum.
+Dersin Öğrenme Çıktıları: Temel Fizik bilgi ve teoremlerini bilir. Temel Fizik bilgi ve teoremlerinin mühendislik uygulamalarını bilir.
+Değerlendirme Ölçütleri: 1 tane Ara Sınav (%40), 1 tane Yarıyıl Sonu Sınavı (%60). 

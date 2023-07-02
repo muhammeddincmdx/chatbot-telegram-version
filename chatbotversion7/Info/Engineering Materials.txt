@@ -1,0 +1,25 @@
+Engineering Materials Dersine Dair Eğitim Bilgileri
+05520002: Engineering Materials Dersinin Kodu.
+Ders Adı: Engineering Materials
+Dersin Verildiği Yarıyıl: 2. Yarıyıl
+Dersin Dağılımı: Teorik ve uygulama olarak 4 ders saatidir.
+Dersin Kredisi: 5
+Dersin AKTS Değeri: 5
+Dersin Kodu: 05520002
+Öğrenim Türü: Örgün Öğretim
+Dersin Dili: Türkçe
+Dersin Düzeyi: Fakülte
+Dersin Staj Durumu: Yok.
+Dersin Türü: Zorunlu
+Dersin Bölümü/Programı: Mekatronik Mühendisliği
+Dersin Ön Koşulu: Yok.
+Dersin Koordinatörü: Prof. Dr. Ali Bülent UŞAKLI
+Dersi Veren: Dr. Öğr. Üyesi Mustafa TEKİN
+Dersin Yardımcıları : Yok.
+Dersin Amacı: Öğrencilere malzeme biliminin temel konularının kavratılması. Atomik yapılar, atomlar arası kimyasal bağlar, malzeme kusurları gibi konuların öğretilmesi. Malzemelerin mekanik özellikleri ve Kristal yapıları arasındaki ilişkilerin kavratılması.
+Dersin Öğretim Yöntem ve Teknikleri: Malzeme Bilimi ve Mühendisliğine Giriş, Atomik yapılar ve atomlar arası bağlar, Kristal katıların yapısı, Katılarda kusurlar, Difüzyon, Metallerin mekanik özellikleri, Dislokasyonlar ve sertleştirme mekanizmaları, Kırılma, Seramiklerin yapıları, özellikleri ve uygulamaları.
+Dersin Kaynakları: Fundamentals of Materials Science and Engineering, William D. Callister, Jr. - Callister Jr, W. D., & Rethwisch, D. G. (2020). Callister's materials science and engineering. John Wiley & Sons.
+Ders Yapısı: Matematik ve Temel Bilgiler(%40), Mühendislik Tasarımı (%60).
+Ders Konuları: Haftalara göre Konular = 1. Malzeme Bilimi ve Mühendisliğine Giriş, 2. Atomik yapılar ve atomlar arası bağlar, 3. Kristal katıların yapısı, 4. Katılarda kusurlar, 5. Difüzyon, 6. Metallerin mekanik özellikleri-I, 7. Ara Sınav, Güvenlik faktörü, 8. Metallerin Mekanik Özellikleri-II, 9. Dislokasyonlar ve sertleştirme mekanizmaları, 10. Kırılma, 11. Seramiklerin yapıları, özellikleri ve uygulamaları, 12. Polimer Malzemelerin Yapı ve Özellikleri, 13. Kompozit Malzemeler, 14. Final
+Dersin Öğrenme Çıktıları: Temel düzey malzeme bilimi ve mühendislik bilgisi ve uygulamasını yapabilir. Atomik yapı ve atomlar arası bağ hakkında bilgi sahibi olabilir. Malzeme karakteristiği ile ilgili problemleri formüle edebilir, çözebilir.  Malzeme bilimi ve nanoteknoloji alanındaki deneyleri tasarlayıp yürütebilir. Malzemenin yapısını, onun mekanik özellikleri üzerine etkisini kurabilir.
+Değerlendirme Ölçütleri: 1 tane Ara Sınav (%40), 1 tane Yarıyıl Sonu Sınavı (%60). 

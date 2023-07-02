@@ -1,0 +1,25 @@
+Yabancı Dil (İngilizce) II Dersine Dair Eğitim Bilgileri
+99900013: Yabancı Dil (İngilizce) II Dersinin Kodu.
+Ders Adı: Yabancı Dil (İngilizce) II
+Dersin Verildiği Yarıyıl: 2. Yarıyıl
+Dersin Dağılımı: Teorik ve uygulama olarak 2 ders saatidir.
+Dersin Kredisi: 2
+Dersin AKTS Değeri: 2
+Dersin Kodu: 99900013
+Öğrenim Türü: Örgün Öğretim
+Dersin Dili: Türkçe
+Dersin Düzeyi: Fakülte
+Dersin Staj Durumu: Yok.
+Dersin Türü: Zorunlu
+Dersin Bölümü/Programı: Mekatronik Mühendisliği
+Dersin Ön Koşulu: Yok.
+Dersin Koordinatörü: Öğr.Gör. Mehmet Emre ALTINBAŞ, Prof. Dr. Ali Bülent UŞAKLI
+Dersi Veren: Dersi veren bilgisi belirtilmemiştir.
+Dersin Yardımcıları : Yok.
+Dersin Amacı: The central basis of ING 2102 is to consolidate students’ academic and critical approach to thinking, reading, speaking, writing and language usage, as initiated in ING 1102. In addition, students further develop their reading skills relevant to the academic classroom.
+Dersin Öğretim Yöntem ve Teknikleri: This course aims to equip students to interact with academic texts while helping them fully acquire both active and passive knowledge of vital academic and technical terminology in their fields. Students read high-interest texts from engineering sciences. The course also places a strong emphasis on improving reading skills relevant to the academic classroom, such as scanning, inference, working with graphs and tables, and recognizing context clues. In addition, students develop the skills necessary for a critical approach to texts in English, comprehending the ideas and values stated or implied, comparing the writers' ideas with their own.
+Dersin Kaynakları: Dersin kaynakları belirtilmemiştir.
+Ders Yapısı: Matematik ve Temel Bilimler(%50), Mühendislik Bilimleri(%50).
+Ders Konuları: Haftalara göre Konular = 1. Technology in Us, 2. Materials Technology, 3. Components and Assemblies, 7. Engineering Design, 9. Breaking Point, 10. Technical Development, 11. Procedures and Precautions, 13. Monitoring and Control, 14. Theory and Practice.
+Dersin Öğrenme Çıktıları: En az bir Avrupa Birliği yabancı dilinde iyi derecede sözlü ve yazılı ifade yeteneği kazanmıştır. Alanındaki temel bilgileri izleyebilecek ve meslek çevresiyle iletişim kurabilecek düzeyde bir yabancı dili kullanabilir.
+Değerlendirme Ölçütleri: 1 tane Ara Sınav (%40), 1 tane Yarıyıl Sonu Sınavı (%60). 

@@ -1,0 +1,25 @@
+Calculus II Dersine Dair Eğitim Bilgileri
+99600004: Calculus II Dersinin Kodu.
+Ders Adı: Calculus II
+Dersin Kodu: 99600004
+Dersin Verildiği Yarıyıl: 2. Yarıyıl
+Dersin Dağılımı: Teorik ve uygulama olarak 4 ders saatidir.
+Dersin Kredisi: 5
+Dersin AKTS Değeri: 5
+Öğrenim Türü: Örgün Öğretim
+Dersin Dili: Türkçe
+Dersin Düzeyi: Fakülte
+Dersin Staj Durumu: Yok.
+Dersin Türü: Zorunlu
+Dersin Bölümü/Programı: Mekatronik Mühendisliği
+Dersin Ön Koşulu: Calculus I dersinden kalmamış olmak.
+Dersin Koordinatörü: Prof. Dr. Ali Bülent UŞAKLI
+Dersi Veren: Dr. Öğr. Üyesi Sümeyye BAKIM
+Dersin Yardımcıları : Yok.
+Dersin Amacı: Bu ders, Calculus I dersinin devamı niteliğinde olup tüm mühendislik öğrencileri için gereklidir. Dersin amacı, öğrencilerin matematik okur- yazarlığını ve problem çözme kabiliyetlerini geliştirmektir.
+Dersin Öğretim Yöntem ve Teknikleri: Diziler. Seriler, kuvvet serileri, Taylor ve Maclaurin serileri. Üç boyutlu uzay ve vektörler. Çok değişkenli fonksiyonlar, kısmi türevler ve zincir kuralı, yönlü türevler, ekstremum değerler. Çok katlı integraller. Eğrisel integraller.
+Dersin Kaynakları: Dersin kaynakları belirtilmemiştir.
+Ders Yapısı: Matematik ve Temel Bilgiler(%50), Mühendislik Bilimleri(%50).
+Ders Konuları: Haftalara göre Konular = 1. Diziler, 2. Seriler ve yakınsaklık testleri, 3. Alterne seriler, mutlak ve şartlı yakınsaklık, 5. Kuvvet serileri, Taylor ve Maclaurin serileri, 7. Üç boyutlu uzayda doğrular düzlemler ve vektörler. İç çarpım ve vektörel çarpım, quadrik yüzeyler, 8. Vektör değerli ve çok değişkenli fonksiyonlar, 9. Kısmi türevler ve zincir kuralı, 10. Teğet düzlemleri ve diferansiyeller. Gradiyent ve yönlü türevler, 11. Ekstremum değerler, eyer noktası ve Lagrange çarpanları, 13. İki ve üç katlı integraller, 14. Eğrisel integraller.
+Dersin Öğrenme Çıktıları: Temel Matematik bilgi ve teoremlerini bilir. Temel Matematik bilgi ve teoremlerini mühendislik alanına uygular. Sayısal analiz ve yaklaşık hesap yöntemlerini bilir. Mühendislik sistemlerinin matematik modellerini kurar ve bilgisayarda benzetimini yapar.
+Değerlendirme Ölçütleri: 1 tane Ara Sınav (%40), 2 tane Kısa Sınav (%10), 1 tane Yarıyıl Sonu Sınavı (%60).

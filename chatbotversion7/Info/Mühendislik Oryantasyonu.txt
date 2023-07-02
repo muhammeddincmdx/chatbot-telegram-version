@@ -1,0 +1,25 @@
+Mühendislik Oryantasyonu Dersine Dair Eğitim Bilgileri
+99600001: Mühendislik Oryantasyonu Dersinin Kodu.
+Ders Adı: Mühendislik Oryantasyonu
+Dersin Verildiği Yarıyıl: 1. Yarıyıl
+Dersin Dağılımı: Teorik ve uygulama olarak 3 ders saatidir.
+Dersin Kredisi: 3
+Dersin AKTS Değeri: 3
+Dersin Kodu: 99600001
+Öğrenim Türü: Örgün Öğretim
+Dersin Dili: Türkçe
+Dersin Düzeyi: Fakülte
+Dersin Staj Durumu: Yok.
+Dersin Türü: Zorunlu
+Dersin Bölümü/Programı: Mekatronik Mühendisliği
+Dersin Ön Koşulu: Yok.
+Dersin Koordinatörü: Prof. Dr. Ali Bülent UŞAKLI
+Dersi Veren: Dr. Öğr. Üyesi Amir YAVARİABDİ
+Dersin Yardımcıları : Arş.Gör. Gökberk AY, Arş.Gör. Mürvet Şeyma GÖREN
+Dersin Amacı: Bu ders mekanik, elektronik ve bilişim sistemlerinin basit, ekonomik ve güvenilir mekatronik sistemlerin üretmek için nasıl entegre edileceğini göstermektedir.
+Dersin Öğretim Yöntem ve Teknikleri: Mekatroniğe giriş, Sistem Modelleme, Analog Elektronik, Sayısal Elektronik, Sensörler ve Aktüatörler.
+Dersin Kaynakları: Introduction to Mechatronics and Measurement Systems, David G. Alciatore and Michael B. Histand, Mc Graw Hill, 4 th edition. https://sites.google.com/site/yavariabdi/courses/introduction-to-mechatronics-engineering, https://sites.google.com/site/yavariabdi/courses/introduction-to-mechatronics-engineering, https://sites.google.com/site/yavariabdi/courses/introduction-to-mechatronics-engineering, https://sites.google.com/site/yavariabdi/courses/introduction-to-mechatronics-engineering
+Ders Yapısı: Matematik ve Temel Bilgiler(%20), Mühendislik Bilimleri(%60), Mühendislik Tasarımı (%10), Alan Bilgisi(%10).
+Ders Konuları: Haftalara göre ders konuları belirtilmemiştir.
+Dersin Öğrenme Çıktıları: Temel sistem modellemesini anlamak. Temel Devre Elemanlarını Anlama. Temel mikrodenetleyici programlamayı öğrenme. Gömülü sistem programlayarak (örn. ARDUINO) basit mekatronik sistemlerin geliştirilmesi.
+Değerlendirme Ölçütleri: 1 tane Ara Sınav (%30), 2 tane Kısa Sınav (%5), 2 tane Proje (%30), 1 tane Yarıyıl Sonu Sınavı (%35). 

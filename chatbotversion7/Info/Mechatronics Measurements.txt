@@ -1,0 +1,25 @@
+Mechatronics Measurements Dersine Dair Eğitim Bilgileri
+05510004: Mechatronics Measurements Dersinin Kodu.
+Ders Adı: Mechatronics Measurements
+Dersin Verildiği Yarıyıl: 1. Yarıyıl
+Dersin Dağılımı: Teorik ve uygulama olarak 2 ders saatidir.
+Dersin Kredisi: 5
+Dersin AKTS Değeri: 5
+Dersin Kodu: 05510004
+Öğrenim Türü: Örgün Öğretim
+Dersin Dili: Türkçe
+Dersin Düzeyi: Fakülte
+Dersin Staj Durumu: Yok.
+Dersin Türü: Zorunlu
+Dersin Bölümü/Programı: Mekatronik Mühendisliği
+Dersin Ön Koşulu: Yok.
+Dersin Koordinatörü: Prof. Dr. Ali Bülent UŞAKLI
+Dersi Veren: Dr. Öğr. Üyesi Ahmad Yasser AFAGHANI
+Dersin Yardımcıları : Arş.Gör. Mürvet Şeyma GÖREN
+Dersin Amacı: Bu dersin amacı, lisans öğrencilerinin ölçüm sistemlerinin temelleri ile ilgili bilgilerini oluşturmaktır. Ders, ölçü aletleri türlerini ve performans özelliklerini tanıtacaktır. Ayrıca ölçümler için kullanılan hata ve gürültüler de dahil olmak üzere birçok sensör anlatılacaktır. Dersin ana konusunu, çok büyük miktarda veri kullanılması nedeniyle ölçümler için çok önemli bir bilim olan istatistik oluşturmaktadır.
+Dersin Öğretim Yöntem ve Teknikleri: Ölçümlere Giriş, Cihaz Tipleri ve Performans Karakteristikleri, Sensör Teknolojileri, İstatistik Temelleri, Ölçüm Sürecinde Hata, Ölçümlerde Gürültü ve Sinyal İşleme, Ölçüm için Temel Mekatronik Aletleri, Değişken Dönüştürme Elemanları.
+Dersin Kaynakları: Alan S Morris, "Measurement and Instrumentation Principles-Third Edition"-2001. https://sites.google.com/view/yasser-afaghani
+Ders Yapısı: Matematik ve Temel Bilgiler(%10), Mühendislik Bilimleri(%70), Mühendislik Tasarımı(%20).
+Ders Konuları: Haftalara göre Konular = 1. Ölçümlere Giriş, 2. Enstrüman Tipleri ve Performans Özellikleri, 3. Sensors Technologies, 4. İstatistik Temelleri (1), 5. İstatistik Temelleri (2), 6. Ölçüm İşlemi Sırasında Hata, 7. Ölçümlerde Gürültü ve Sinyal İşleme, 8. Ölçüm için Temel Mekatronik Aletleri, 9. Değişken Dönüşüm Elemanları (1), 10. Değişken Dönüşüm Elemanları (2).
+Dersin Öğrenme Çıktıları: Ölçüm ilkelerini ve Ölçüm için kullanılan en önemli özellikleri öğrenme. Ölçümler için birçok sensör türünü öğrenme. statistiğin temellerini ve istatistiklerin ölçümde nasıl uygulanacağını öğrenmek. Ölçümler sırasında gürültü ve hata ile başa çıkma yeteneği. Ölçüm çıktılarını uyarlamak için dönüştürme öğelerini kullanabilme. Basit bir gerçek ölçüm sistemi oluşturma yeteneği. 
+Değerlendirme Ölçütleri: 1 tane Ara Sınav (%20),1 tane Kısa Sınav (%5), 14 tane Derse Devam (%10),14 tane Uygulama (%20), 2 tane Proje (%20), 1 tane Yarıyıl Sonu Sınavı (%25). 

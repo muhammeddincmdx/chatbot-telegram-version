@@ -1,0 +1,25 @@
+Yabancı Dil (İngilizce) I Dersine Dair Eğitim Bilgileri
+99900012: Yabancı Dil (İngilizce) I Dersinin Kodu.
+Ders Adı: Yabancı Dil (İngilizce) I
+Dersin Verildiği Yarıyıl: 1. Yarıyıl
+Dersin Dağılımı: Teorik ve uygulama olarak 2 ders saatidir.
+Dersin Kredisi: 2
+Dersin AKTS Değeri: 2
+Dersin Kodu: 99900012
+Öğrenim Türü: Örgün Öğretim
+Dersin Dili: Türkçe
+Dersin Düzeyi: Fakülte
+Dersin Staj Durumu: Yok.
+Dersin Türü: Zorunlu
+Dersin Bölümü/Programı: Mekatronik Mühendisliği
+Dersin Ön Koşulu: Yok.
+Dersin Koordinatörü: Prof. Dr. Ali Bülent UŞAKLI
+Dersi Veren: Öğr.Gör. İsmail Pişer
+Dersin Yardımcıları : Yok.
+Dersin Amacı: Bu dersin amacı öğrencilerimizi hem üniversite eğitimleri süresince hem de mezun olduktan sonra kendilerini İngilizce yazılı ve sözlü olarak ifade edebildikleri, okuduklarını anlayabildikleri yeterliliğe getirmektir.
+Dersin Öğretim Yöntem ve Teknikleri: Bu ders, İngilizce farkındalığını artırırken, akademik okuma ve dinleme bazlı iletişimsel becerilerin, eleştirel düşüncenin öğrenci tarafından özümsenmesine önem verir.
+Dersin Kaynakları: Captain 2 (Blackswan)
+Ders Yapısı: Sosyal Bilimler(%80), Eğitim Bilimleri(%20).
+Ders Konuları: Haftalara göre ders konuları belirtilmemiştir.
+Dersin Öğrenme Çıktıları: Alanındaki temel bilgileri izleyebilecek ve meslek çevresiyle iletişim kurabilecek düzeyde en az bir yabancı dil bilir. En az bir yabancı dili kullanarak ulusal ve uluslararası alanda etkin iletişim kurar, akademik olarak temsil eder, akademik gelişme ve yayınları takip eder.
+Değerlendirme Ölçütleri: 1 tane Ara Sınav (%40), 1 tane Yarıyıl Sonu Sınavı (%60). 

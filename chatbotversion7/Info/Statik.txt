@@ -1,0 +1,25 @@
+Statik Dersine Dair Eğitim Bilgileri
+05520003: Statik Dersinin Kodu.
+Ders Adı: Statik
+Dersin Verildiği Yarıyıl: 2. Yarıyıl
+Dersin Dağılımı: Teorik ve uygulama olarak 3 ders saatidir.
+Dersin Kredisi: 5
+Dersin AKTS Değeri: 5
+Dersin Kodu: 05520003
+Öğrenim Türü: Örgün Öğretim
+Dersin Dili: Türkçe
+Dersin Düzeyi: Fakülte
+Dersin Staj Durumu: Yok.
+Dersin Türü: Zorunlu
+Dersin Bölümü/Programı: Mekatronik Mühendisliği
+Dersin Ön Koşulu: Yok.
+Dersin Koordinatörü: Prof. Dr. Ali Bülent UŞAKLI
+Dersi Veren: Dr. Öğr. Üyesi Erdi GÜLBAHÇE
+Dersin Yardımcıları : Yok.
+Dersin Amacı: Bu dersin amacı, pratik mühendislik problemlerine onların analiz ve uygulamaları üzerinde durularak mühendislik mekaniğinin temel prensiplerini tanıtmak.
+Dersin Öğretim Yöntem ve Teknikleri: Mekaniğin prensipleri, İki ve üç boyutlu statik elemanları, sentroidler, makinelerin ve yapıların analizi, sürtünme, iç kuvvet diyagramları. Eylemsizlik momenti. Normal ve kayma gerilmeleri. Malzemeler, güvenlik faktörü, gerilme konsantrasyonu, Basınçlı ince cidarlı silindirler, Basit gerginlik yüklemesi, burulma ve eğilme. Basit yükleme, süper pozisyon teknikleri ile deplasmanlar. İstatistiksel olarak belirsiz elemanlar, ısıl gerilmeler. Bileşik gerilmeler, Mohr dairesi, bileşik yükler. Burkulma. Enerji yöntemleri.
+Dersin Kaynakları: Hibbeler, R.C., "Engineering Mechanics: Statics" 12th (SI) Edition, Prentice Hall, 2010. - F.P. Beer, E.R. Johnston, J.T. DeWolf, D.F. Mazurek, Mechanics of Materials, 5th Edition in SI Units, McGraw Hill 2009.
+Ders Yapısı: Matematik ve Temel Bilgiler(%10), Mühendislik Bilimleri(%10), Mühendislik Tasarımı (%80).
+Ders Konuları: Haftalara göre Konular = 1. Mekaniğin prensipleri, 2. İki ve üç boyutlu statik elemanları, sentroidler, 3. Yapılar ve makinaların analizi, sürtünme, 4. İç kuvvet diyagramları. Eylemsizlik momenti, 5. İç kuvvet diyagramları. Eylemsizlik momenti, 6. Normal ve kayma gerilmeleri, 7. Malzemeler, Güvenlik faktörü, gerilme konsantrasyonu, 8. Basınçlı ince cidarlı silindirler. Burulma ve eğilme, 9. Basit yükleme, süper pozisyon teknikleri ile deplasmanlar, 11. İstatistiksel olarak belirsiz elemanlar, ısıl elemanlar 12. Bileşik gerilmeler, Mohr dairesi, bileşik yükler, 14. Sehim, burkulma, enerji yöntemleri.
+Dersin Öğrenme Çıktıları: Mekanik sistemlerin statik, dinamik ve mukavemet analizini yapar (katı cisim). Mekanizmaları bilir, statik ve dinamik analizini yapar. Malzemelerin statik ve dinamik davranış özelliklerini bilir. Vak’a incelemeleri ile Tümleşik tasarım kabiliyetini kavrar.
+Değerlendirme Ölçütleri: 1 tane Ara Sınav (%30), 1 tane Yarıyıl Sonu Sınavı (%70). 

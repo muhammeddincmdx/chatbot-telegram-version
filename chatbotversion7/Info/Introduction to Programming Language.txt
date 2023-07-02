@@ -1,0 +1,25 @@
+Introduction to Programming Language Dersine Dair Eğitim Bilgileri
+05510002: Introduction to Programming Language Dersinin Kodu.
+Ders Adı: Introduction to Programming Language
+Dersin Verildiği Yarıyıl: 1. Yarıyıl
+Dersin Dağılımı: Teorik ve uygulama olarak 4 ders saatidir.
+Dersin Kredisi: 5
+Dersin AKTS Değeri: 5
+Dersin Kodu: 05510002
+Öğrenim Türü: Örgün Öğretim
+Dersin Dili: Türkçe
+Dersin Düzeyi: Fakülte
+Dersin Staj Durumu: Yok
+Dersin Türü: Zorunlu
+Dersin Bölümü/Programı: Mekatronik Mühendisliği
+Dersin Ön Koşulu: Yok
+Dersin Koordinatörü: Prof. Dr. Ali Bülent UŞAKLI
+Dersi Veren: Dr. Öğr. Üyesi Amir YAVARİABDİ
+Dersin Yardımcıları : Arş. Gör. Gökberk AY
+Dersin Amacı: Bu ders bilgisayar donanımlarını ve C programlama dilini öğretmeyi amaçlar.
+Dersin Öğretim Yöntem ve Teknikleri: Temel Bilgisayar Donanımları, veri tipleri, veri girdi-çıktsı, ilem operatörleri yapılandırılmış programlama, program kontrolleri, fonksiyonlar, diziler.
+Dersin Kaynakları: C How to Program, H. M. Deitel and P. J. Deitel, Prentice Hall, 5th (or above) edition, https://sites.google.com/site/yavariabdi/courses/computer-programming-and-algorithms, https://sites.google.com/site/yavariabdi/courses/computer-programming-and-algorithms, https://sites.google.com/site/yavariabdi/courses/computer-programming-and-algorithms, https://sites.google.com/site/yavariabdi/courses/computer-programming-and-algorithms.
+Ders Yapısı: Matematik ve Temel Bilgiler(%20), Mühendislik Bilimleri(%70),Alan Bilgisi(%10)
+Ders Konuları: Haftalara göre ders konuları belirtilmemiştir.
+Dersin Öğrenme Çıktıları: Bilgisayar biliminde kullanılan temel terminolojileri anlama, C programlama dilinde yazma, derleme ve hata ayıklama.
+Değerlendirme Ölçütleri: 1 tane Ara Sınav (%30), 2 tane Kısa Sınav (%10),1 tane Proje (%25), 1 tane Yarıyıl Sonu Sınavı (%35). 

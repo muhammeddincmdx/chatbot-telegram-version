@@ -1,0 +1,25 @@
+Olasılık ve İstatistik Dersine Dair Eğitim Bilgileri
+05520005: Olasılık ve İstatistik Dersinin Kodu.
+Ders Adı: Olasılık ve İstatistik
+Dersin Kodu: 05520005
+Dersin Verildiği Yarıyıl: 2. Yarıyıl
+Dersin Dağılımı: Teorik ve uygulama olarak 3 ders saatidir.
+Dersin Kredisi: 3
+Dersin AKTS Değeri: 3
+Öğrenim Türü: Örgün Öğretim
+Dersin Dili: Türkçe
+Dersin Düzeyi: Fakülte
+Dersin Staj Durumu: Yok.
+Dersin Türü: Zorunlu
+Dersin Bölümü/Programı: Mekatronik Mühendisliği
+Dersin Ön Koşulu: Yok.
+Dersin Koordinatörü: Prof. Dr. Ali Bülent UŞAKLI
+Dersi Veren: Dr. Öğr. Üyesi Sümeyye BAKIM
+Dersin Yardımcıları : Yok.
+Dersin Amacı: Ders, öğrencilere olasılık aksiyomları, dağılım ve karakteristik fonksiyonları ve matematiksel beklentileri öğretmeyi amaçlamaktadır.
+Dersin Öğretim Yöntem ve Teknikleri: Klasik sonlu uzay olasılığı, olasılıksal koşullara yaklaşım. Bayes teoremi. Olayların bağımsızlığı. Bazı olasılık modelleri. Ölçülebilir fonksiyonlar ve rasgele değişkenler. Dağılımları. Ayrık ve kesinlikle sürekli dağılımlar. Rastgele değişkenlerin dönüşümleri. Koşullu dağılımlar. Matematiksel beklentiler: ortalama, varyans, moment üreten fonksiyonlar. Özellikleri fonksiyonları. Koşullu beklenti. Sınırlı dağılımlar.
+Dersin Kaynakları: Jean Jacod and Phillip Protter “Probability Essentials”, Springer, 2nd Edition, (2003).
+Ders Yapısı: Matematik ve Temel Bilgiler(%80), Mühendislik Bilimleri(%20).
+Ders Konuları: Haftalara göre Konular = 1. Klasik sonlu uzay olasılığı, olasılıksal koşullara yaklaşım, 2. Bayes teoremi, 3. Olayların bağımsızlığı, 4. Bazı olasılık modelleri,  5. Ölçülebilir fonksiyonlar ve rasgele değişkenler, 6. Dağılımları. Ayrık ve kesinlikle sürekli dağılımlar, 7. Rastgele değişkenlerin dönüşümleri, 8. Koşullu dağılımlar, 9. Matematiksel beklentiler: ortalama, varyans, moment üreten fonksiyonlar , 10. Özellikleri fonksiyonları, 11. Koşullu beklenti, 12. Sınırlı dağılımlar.
+Dersin Öğrenme Çıktıları: Mühendislikte matematiğin uygulamalarını bilir. Sayısal hesaplamaları ve analizi bilir.
+Değerlendirme Ölçütleri: 1 tane Ara Sınav (%40), 1 tane Yarıyıl Sonu Sınavı %60.

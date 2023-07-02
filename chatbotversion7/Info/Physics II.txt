@@ -1,0 +1,25 @@
+Physics II Dersine Dair Eğitim Bilgileri
+99600005: Pyhsics II Dersinin Kodu.
+Ders Adı: Physics II
+Dersin Verildiği Yarıyıl: 2. Yarıyıl
+Dersin Dağılımı: Teorik ve uygulama olarak 4 ders saatidir.
+Dersin Kredisi: 5
+Dersin AKTS Değeri: 5
+Dersin Kodu: 99600003
+Öğrenim Türü: Örgün Öğretim
+Dersin Dili: Türkçe
+Dersin Düzeyi: Fakülte
+Dersin Staj Durumu: Yok.
+Dersin Türü: Zorunlu
+Dersin Bölümü/Programı: Mekatronik Mühendisliği
+Dersin Ön Koşulu: Physics I dersinden kalmamış olmak.
+Dersin Koordinatörü: Prof. Dr. Ali Bülent UŞAKLI
+Dersi Veren: Prof. Dr. Ayben KARASU UYSAL
+Dersin Yardımcıları : Yok.
+Dersin Amacı: Dersin Amacı : Klasik Elektrik ve Manyetizma ile ilgili temel kavramları ve ilkeleri öğretmek.
+Dersin Öğretim Yöntem ve Teknikleri: Yük ve madde, Coulomb yasası, Elektrik alan ve Gauss yasası, Elektrik potansiyel, Kondansatörler ve dielektrikler, Akım ve direnç, Doğru akım devreleri, Manyetik alan ve manyetik kuvvetler, Manyetik alan kaynakları, Manyetik indüksiyon, İndüktans, Alternatif akım, Maxwell denklemleri.
+Dersin Kaynakları: Dersin kaynakları belirtilmemiştir.
+Ders Yapısı: Matematik ve Temel Bilgiler(%50), Mühendislik Bilimleri(%50).
+Ders Konuları: Haftalara göre Konular = 1. Yük ve madde Coulomb Yasası, 2. Elektrik Alan ve Gauss Yasası, 3. Elektrik Potansiyel, 4. Kondansatörler ve Dielektrikler, 5. Akım ve Direnç, 6. Doğru Akım Devreleri, 7. Manyetik Alan ve Manyetik Kuvvetler, 8. Manyetik alan kaynakları, 10. Manyetik İndüksiyon, 12. İndüktans, 13. Alternatif Akım, 14. Maxwell Denklemleri.
+Dersin Öğrenme Çıktıları: Temel Fizik bilgi ve teoremlerini bilir, Temel Fizik bilgi ve teoremlerinin mühendislik uygulamalarını bilir.
+Değerlendirme Ölçütleri: 1 tane Ara Sınav (%40), 1 tane Yarıyıl Sonu Sınavı (%60). 

@@ -1,0 +1,25 @@
+Computer Aided Drawing Dersine Dair Eğitim Bilgileri
+05510006: Computer Aided Drawing Dersinin Kodu.
+Ders Adı: Computer Aided Drawing
+Dersin Verildiği Yarıyıl: 1. Yarıyıl
+Dersin Dağılımı: Teorik ve uygulama olarak 4 ders saatidir.
+Dersin Kredisi: 5
+Dersin AKTS Değeri: 5
+Dersin Kodu: 05510006
+Öğrenim Türü: Örgün Öğretim
+Dersin Dili: Türkçe
+Dersin Düzeyi: Fakülte
+Dersin Staj Durumu: Yok.
+Dersin Türü: Zorunlu
+Dersin Bölümü/Programı: Mekatronik Mühendisliği
+Dersin Ön Koşulu: Yok.
+Dersin Koordinatörü: Prof. Dr. Ali Bülent UŞAKLI
+Dersi Veren: Dr. Öğr. Üyesi Ahmad Yasser AFAGHANI
+Dersin Yardımcıları : Yok.
+Dersin Amacı: Bu ders, öğrencileri bir CAD programı kullanarak mühendislik çizimlerini okuma, analiz etme ve çizme becerisi kazandırmayı amaçlamaktadır. Kurs, öğrencilere dünya çapında en ünlü CAD uygulamalarından biri olan Solidworks programının nasıl kullanılacağını öğretmeye odaklanmıştır. Bu, öğrencilerin en son teknolojiler hakkındaki bilgilerini geliştirmelerine ve hızlı tasarım yeteneği kazandırmalarına yardımcı olur.
+Dersin Öğretim Yöntem ve Teknikleri: Solidworks Temelleri, Basit Parça Çizimi, Torna Parçaları Çizimi, Delik Sihirbazı ve Eğri Parça Çizimleri, Detaylandırma Çizimi, Yaylar ve Vidalar, Çizimde Model, Montaj, Proteus.
+Dersin Kaynakları: www.solidworkstutorials.com, “Solidworks 2010 Tutorials Beginner”- 2010. https://sites.google.com/view/yasser-afaghani
+Ders Yapısı: Matematik ve Temel Bilgiler(%5), Mühendislik Bilimleri(%15), Mühendislik Tasarımı (%80). 
+Ders Konuları: Haftalara göre Konular = 1. Solidworks'ün Temelleri, 2. Basit Parça Çizimi(1), 3. Basit Parça Çizimi(2), 4. Tornalama Parçaları Çizimi, 5. Delik Sihirbazları ve Eğri Parçalar Çizimi, 6. Detaylandırma Çizimi (İng. Çizim), 7. Montaj (1), 8.Montaj (2), 9. Yaylar ve Vidalar, 10. Çizimde Desen,  11. Proteus (1), 12. Proteus (2).
+Dersin Öğrenme Çıktıları: CAD sistemlerinin temellerini öğrenmek. Orta seviye ile solidworks'te tasarım yapabilme. Farklı 3B nesneler çizmek için solidworks tekniklerini öğrenme. Solidworks'te mühendislik çizimi kullanabilme. Solidworks'te montaj kullanabilme. Proteus programının temellerini öğrenmek. 
+Değerlendirme Ölçütleri: 1 tane Ara Sınav (%20),14 tane Derse Devam (%5), 1 tane Uygulama (%25),1 tane Proje (%20), 1 tane Yarıyıl Sonu Sınavı (%30). 

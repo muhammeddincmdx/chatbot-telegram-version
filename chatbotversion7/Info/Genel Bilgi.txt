@@ -1,0 +1,19 @@
+Mekatronik mühendisliği 4 yıllık bölüm 1 yıllık ingilizce hazırlık sıfından oluşmaktadır. Hazırlık sınıfı, hazırlık atlama sınavından başarılı olarak ya da 1 sene hazırlık eğitimi alarak geçilir.
+Mekatronik Mühendisliği 1. sınıfı 2 yarıyıldan oluşmaktadır.
+
+1. Yarıyıl Dersleri
+99600002 Calculus I 
+99900012 Yabancı Dil (İngilizce) I 
+99600003 Physics I
+99600001 Mühendislik Oryantasyonu
+05510006 Computer Aided Drawing
+05510002 Introduction to Programming Language
+05510004 Mechatronics Measurements
+2. Yarıyıl Dersleri
+99600004 Calculus II
+99900013 Yabancı Dil (İngilizce) II
+99600005 Physics II
+05520002 Engineering Materials
+05520003 Statik
+05520001 Devre Teorisi I
+05520005 Olasılık ve İstatistik

@@ -1,0 +1,25 @@
+Devre Teorisi I Dersine Dair Eğitim Bilgileri
+05520001: Engineering Materials Dersinin Kodu.
+Ders Adı: Engineering Materials
+Dersin Verildiği Yarıyıl: 2. Yarıyıl
+Dersin Dağılımı: Teorik ve uygulama olarak 3 ders saatidir.
+Dersin Kredisi: 5
+Dersin AKTS Değeri: 5
+Dersin Kodu: 05520001
+Öğrenim Türü: Örgün Öğretim
+Dersin Dili: Türkçe
+Dersin Düzeyi: Fakülte
+Dersin Staj Durumu: Yok.
+Dersin Türü: Zorunlu
+Dersin Bölümü/Programı: Mekatronik Mühendisliği
+Dersin Ön Koşulu: Yok.
+Dersin Koordinatörü: Prof. Dr. Ali Bülent UŞAKLI
+Dersi Veren: Öğr.Gör. Adem YILMAZ
+Dersin Yardımcıları : Arş.Gör. Mürvet Şeyma GÖREN.
+Dersin Amacı: Elektrik ve elektronik sistemlerine hazırlık olarak bazı teknikleri kullanarak basit devrelerle ilgili temel prensipleri ve tasarım yöntemlerini öğretmek.
+Dersin Öğretim Yöntem ve Teknikleri: Elektrik Devresi Değişkenleri, devre elemanları. Basit direnç devreleri. Devre analizi teknikleri. Devre teorileri, devre analizi topolojileri. İndüktans ve kapasitans. Durum değişkenleri ve durum denklemleri. Birinci derece RL ve RC devreleri. İkinci derece RLC devrelerinin doğal ve adım yanıtları. OPAMP'lere giriş.
+Dersin Kaynakları: James W. Nilsson, Susan A. Riedel Electric Circuits (8th edition), 2008, Pearson International, Upper Saddle River, New Jersey. Charles K. Alexander, Matthew N.O. Sadiku, Fundamentals of Electric Circuits, (4th edition), 2009 McGraw-Hill, New York.
+Ders Yapısı: Matematik ve Temel Bilgiler(%20), Mühendislik Bilimleri(%40), Mühendislik Tasarımı (%30), Alan Bilgisi(%10). 
+Ders Konuları: Haftalara göre Konular = 1. Giriş, 2. Direnç Devreleri, 4. Analiz Yöntemleri, 7. Devre Teoremleri, 9. Enerji Depolayan Elemanlar, 11. Diferansiyel Denklemlere Giriş, 12. Birinci Mertebeden Devreler, 14. İkinci Mertebeden Devreler.
+Dersin Öğrenme Çıktıları: Elektrik devrelerini analizi yapabilme. Elektronik ve tasarım elektronik devrelerinin temellerini bilme. Sayısal elektroniğin temellerini bilme ve sayısal devrelerin analizini yapma. Mekatronik sistemlerinde kullanılan elektrik ve elektronik bileşenleri bilme, doğru bileşenleri seçebilme. Sayısal elektronik bileşenleri seçebilme, sayısal elektronik tasarım yapabilme.
+Değerlendirme Ölçütleri: 1 tane Ara Sınav (%30),1 tane Uygulama (%20), 1 tane Yarıyıl Sonu Sınavı (%50). 
