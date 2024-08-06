@@ -3,10 +3,10 @@ from llama_index import ServiceContext, StorageContext, load_index_from_storage
 import os
 import json
 from langchain import OpenAI
-os.environ["OPENAI_API_KEY"] = "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"
+os.environ["OPENAI_API_KEY"] = ""
 import aiogram
 
-bot_token = "6252844385:AAFZHyR3A9KHGaQ9-UgoQ18TD-Ec46mncAE"
+bot_token = ""
 bot = aiogram.Bot(token=bot_token)
 dp = aiogram.Dispatcher(bot)
 
